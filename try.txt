@@ -1,3 +1,4 @@
 Hello World
 I fixed the file
 Another test
+Merge test
